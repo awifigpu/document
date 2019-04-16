@@ -3,7 +3,7 @@ http://fromwiz.com/share/s/0bqLw11P6APg2N4yAq0vIkJk0DP2FF2otA5x2Q2MGR12h3AU
 ***
 
 # 项目结构
-目录    |                         |说明        
+目录    |                   |说明        
 ---------------------|----------------------|-------------------
 |project_name|                 |  目录， 项目名   
 |                        | src             |  目录， 代码目录
