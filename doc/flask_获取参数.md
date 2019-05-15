@@ -43,11 +43,5 @@ form_age = request.form.get("age")
 # get里面的参数由input标签里面的name属性值决定
 ```
 
-# 获取上传的文件
-```
-files = request.files.get("image")
-#注:get里面的参数,由html form表单里面input的name属性值决定
-```
-
 # 代码
 [flask 参数](https://github.com/awifigpu/flask_example/tree/1905015)
