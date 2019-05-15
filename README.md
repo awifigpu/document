@@ -11,13 +11,14 @@
 
 0508更新 [flask 模板](https://github.com/awifigpu/flask_example/tree/190508)
 
+0515更新 [flask 参数](./doc/flask_获取参数.md)
+
 # 后续(待补充)
-* flask 参数
 * flask 其他
 * flask+uwsgi+nginx部署
 * nginx设计
 * nginx+lua
-*
+
 
 
 
