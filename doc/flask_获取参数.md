@@ -44,4 +44,4 @@ form_age = request.form.get("age")
 ```
 
 # 代码
-[flask 参数](https://github.com/awifigpu/flask_example/tree/1905015)
+[flask 参数](https://github.com/awifigpu/flask_example/tree/190515)

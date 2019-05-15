@@ -15,7 +15,6 @@
 
 # 后续(待补充)
 * flask 其他
-* flask+uwsgi+nginx部署
 * nginx设计
 * nginx+lua
 
