@@ -14,7 +14,6 @@
 0515更新 [flask 参数](./doc/flask_获取参数.md)
 
 # 后续(待补充)
-* flask 其他
 * nginx设计
 * nginx+lua
 
